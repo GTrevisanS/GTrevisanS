@@ -16,12 +16,6 @@ Atualmente, trabalho principalmente com Python, SQL e Cypress, buscando aprimora
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 📊 Minhas estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GTrevisanS&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GTrevisanS&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 *Por favor, de uma olhada nos meus repos publicos!, tem alguns bem legais!*
