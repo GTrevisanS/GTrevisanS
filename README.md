@@ -1,8 +1,8 @@
-# Olá! 👋 fico feliz que venha me visitar!
+# Olá! É um prazer te receber aqui!
 
-Sou um profissional de tecnologia com foco em **Qualidade de Software (QA), automação de testes e desenvolvimento de ferramentas para análise e validação de dados**.
+Atualmente sou um profissional de tecnologia com foco em **Qualidade de Software (QA), automação de testes e desenvolvimento de ferramentas para análise e validação de dados**.
 Gosto de encontrar soluções para problemas do dia a dia, automatizar tarefas repetitivas e desenvolver ferramentas que tornem os processos mais eficientes e confiáveis.
-Atualmente, trabalho principalmente com Python, SQL e Cypress, buscando aprimorar minhas habilidades em desenvolvimento, testes automatizados e qualidade de software.
+Atualmente, trabalho principalmente com Python, SQL e Cypress, buscando aprimorar minhas habilidades em desenvolvimento e testes automatizados.
 
 ### Tecnologias e ferramentas que costumo utilizar
 
